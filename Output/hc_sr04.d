@@ -1,0 +1,17 @@
+..\Output\hc_sr04.o: HC_SR04.c
+..\Output\hc_sr04.o: ..\CMSIS\stm32f10x.h
+..\Output\hc_sr04.o: ..\CMSIS\core_cm3.h
+..\Output\hc_sr04.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\Output\hc_sr04.o: ..\CMSIS\system_stm32f10x.h
+..\Output\hc_sr04.o: ..\USER\stm32f10x_conf.h
+..\Output\hc_sr04.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\hc_sr04.o: ..\CMSIS\stm32f10x.h
+..\Output\hc_sr04.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\hc_sr04.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\hc_sr04.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\hc_sr04.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\hc_sr04.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\hc_sr04.o: ..\FWlib\inc\misc.h
+..\Output\hc_sr04.o: HC_SR04.h
+..\Output\hc_sr04.o: delay.h
+..\Output\hc_sr04.o: Time_test.h

@@ -1,0 +1,16 @@
+..\Output\filter.o: filter.c
+..\Output\filter.o: ..\CMSIS\stm32f10x.h
+..\Output\filter.o: ..\CMSIS\core_cm3.h
+..\Output\filter.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\Output\filter.o: ..\CMSIS\system_stm32f10x.h
+..\Output\filter.o: ..\USER\stm32f10x_conf.h
+..\Output\filter.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\filter.o: ..\CMSIS\stm32f10x.h
+..\Output\filter.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\filter.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\filter.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\filter.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\filter.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\filter.o: ..\FWlib\inc\misc.h
+..\Output\filter.o: filter.h
+..\Output\filter.o: C:\Keil\ARM\RV31\INC\stdio.h

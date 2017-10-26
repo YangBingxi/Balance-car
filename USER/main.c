@@ -38,7 +38,6 @@ extern u8  duoji_flag;
 extern u8 duoji_cnt;
 extern u16 time;
 extern u8 duoji_pwm;
-
 u8 hcsr04_test_flag = 0;
 u8 receive_data;
 u8 flg_get_senor_data;

@@ -1,0 +1,15 @@
+..\Output\timer.o: timer.c
+..\Output\timer.o: ..\CMSIS\stm32f10x.h
+..\Output\timer.o: ..\CMSIS\core_cm3.h
+..\Output\timer.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\Output\timer.o: ..\CMSIS\system_stm32f10x.h
+..\Output\timer.o: ..\USER\stm32f10x_conf.h
+..\Output\timer.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\timer.o: ..\CMSIS\stm32f10x.h
+..\Output\timer.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\timer.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\timer.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\timer.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\timer.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\timer.o: ..\FWlib\inc\misc.h
+..\Output\timer.o: timer.h
